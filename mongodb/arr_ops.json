@@ -1,5 +1,0 @@
-[
-    { "name": "A", "stack": [{"name": "React", "exp": 1}, {"name": "Node", "exp": 2}], "age": 20 },
-    { "name": "B", "stack": [{"name": "Angular", "exp": 3}, {"name": "Golang", "exp": 2}], "age": 21 },
-    { "name": "C", "stack": [{"name": "React", "exp": 3}, {"name": "Node", "exp": 5}], "age": 22 }
-]
